@@ -1,4 +1,4 @@
-### Hey there ¯\_(ツ)_/¯
+### Hey there ¯\\\__(ツ)\__/¯
 
 <!--
 **photovoltex/photovoltex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
